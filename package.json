@@ -1,0 +1,17 @@
+{
+  "name": "ellie",
+  "version": "0.0.1",
+  "description": "ellie bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "keywords": [
+  ]
+}
